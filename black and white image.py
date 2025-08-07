@@ -1,9 +1,7 @@
 import cv2
 import numpy as np
 
-
 image_path = r'C:\Users\alway\Desktop\Learning\Deep Learning Projects\Image Processing\Black and White Image\about.jpg'
-
 
 image = cv2.imread(image_path)
 
